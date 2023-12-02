@@ -1,0 +1,14 @@
+C:\Users\blanc\OneDrive\Bureau\AdventOfCode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.exe
+C:\Users\blanc\OneDrive\Bureau\AdventOfCode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.deps.json
+C:\Users\blanc\OneDrive\Bureau\AdventOfCode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.runtimeconfig.json
+C:\Users\blanc\OneDrive\Bureau\AdventOfCode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.dll
+C:\Users\blanc\OneDrive\Bureau\AdventOfCode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.pdb
+C:\Users\blanc\OneDrive\Bureau\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\OneDrive\Bureau\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.AssemblyInfoInputs.cache
+C:\Users\blanc\OneDrive\Bureau\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.AssemblyInfo.cs
+C:\Users\blanc\OneDrive\Bureau\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.csproj.CoreCompileInputs.cache
+C:\Users\blanc\OneDrive\Bureau\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.dll
+C:\Users\blanc\OneDrive\Bureau\AdventOfCode\AdventOfCode\obj\Debug\net6.0\refint\AdventOfCode.dll
+C:\Users\blanc\OneDrive\Bureau\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.pdb
+C:\Users\blanc\OneDrive\Bureau\AdventOfCode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.genruntimeconfig.cache
+C:\Users\blanc\OneDrive\Bureau\AdventOfCode\AdventOfCode\obj\Debug\net6.0\ref\AdventOfCode.dll
